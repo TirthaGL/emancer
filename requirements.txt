@@ -3,3 +3,4 @@ logging
 delegator
 telegram
 settings
+pipenv
